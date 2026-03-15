@@ -1,7 +1,16 @@
-# Melanoma Detection and Image Regeneration
+# Melanoma Detection and Image Generation
 
 Vision AI final team project for the University of St. Thomas focused on detecting melanoma from dermoscopic skin lesion images using the ISIC 2020 dataset, and using the analysis to generate new images. 
 
+## Team Members
+
+Yaroslaw Bagriy, Chance Browning, Derefaa Cline, Arthur Kennedy, Dante Razo, Liz Zupfer
+
+- ## Project Goals
+
+- Build a binary image classification model to predict whether a skin lesion is benign or malignant
+- Explore class imbalance challenges in melanoma detection
+  
 ## Overview
 
 Melanoma is one of the most serious forms of skin cancer, but it can often be treated successfully when detected early. In this project, our team explores computer vision and deep learning methods for binary classification of skin lesion images as benign or malignant.
