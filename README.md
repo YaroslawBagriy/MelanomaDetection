@@ -6,7 +6,7 @@ Vision AI final team project for the University of St. Thomas focused on detecti
 
 Yaroslaw Bagriy, Chance Browning, Derefaa Cline, Arthur Kennedy, Dante Razo, Liz Zupfer
 
-- ## Project Goals
+## Project Goals
 
 - Build a binary image classification model to predict whether a skin lesion is benign or malignant
 - Explore class imbalance challenges in melanoma detection
