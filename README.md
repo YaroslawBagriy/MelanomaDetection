@@ -1,6 +1,6 @@
-# Melanoma Detection
+# Melanoma Detection and Image Regeneration
 
-Vision AI final team project for the University of St. Thomas focused on detecting melanoma from dermoscopic skin lesion images using the ISIC 2020 dataset.
+Vision AI final team project for the University of St. Thomas focused on detecting melanoma from dermoscopic skin lesion images using the ISIC 2020 dataset, and using the analysis to generate new images. 
 
 ## Overview
 
