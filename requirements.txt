@@ -1,0 +1,28 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+opencv-python
+Pillow
+jupyter
+notebook
+ipykernel
+tqdm
+
+torch
+torchvision
+torchaudio
+
+albumentations
+
+# Optional for image generation / latent space experiments
+scikit-image
+
+# Optional for notebook visualizations
+plotly
+
+# Optional if your team experiments with TensorFlow/Keras instead of PyTorch
+# tensorflow
+# keras
