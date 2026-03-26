@@ -1,8 +1,3 @@
----
-
-### `.gitignore`
-
-```gitignore
 # Python
 __pycache__/
 *.py[cod]
@@ -41,35 +36,33 @@ wheels/
 # OS files
 .DS_Store
 Thumbs.db
+.AppleDouble
+.LSOverride
 
-# VS Code
+# VS Code / JetBrains
 .vscode/
-
-# JetBrains
 .idea/
 
 # Google Colab
 /content/
 *.ipynb~
 
-# Data folders
+# Data
+data/images/
 data/raw/
 data/processed/
 data/interim/
 datasets/
+
+# CSVs
 *.csv
+!data/ISIC_2020_Training_GroundTruth.csv
+
+# Archives
 *.zip
 *.tar
 *.tar.gz
 *.7z
-
-# Images
-*.jpg
-*.jpeg
-*.png
-*.tif
-*.tiff
-*.bmp
 
 # Model artifacts
 *.pt
@@ -77,6 +70,7 @@ datasets/
 *.ckpt
 *.h5
 *.hdf5
+*.keras
 *.onnx
 models/
 checkpoints/
@@ -87,6 +81,8 @@ results/
 reports/
 figures/
 plots/
+runs/
+tensorboard_logs/
 
 # Cache / temp
 .cache/
@@ -95,8 +91,3 @@ temp/
 
 # Environment files
 .env
-
-# Mac
-.AppleDouble
-.LSOverride
-
