@@ -10,6 +10,7 @@ jupyter
 notebook
 ipykernel
 tqdm
+gdown
 
 torch
 torchvision
