@@ -154,6 +154,7 @@ MelanomaDetection/
 │
 ├── notebooks/
 │   ├── train_melanoma_image_classifier.ipynb
+│   ├── train_melanoma_image_classifier_AE.ipynb
 │
 ├── outputs/
 │   ├── figures/
