@@ -57,6 +57,7 @@ data/raw/
 data/processed/
 data/interim/
 datasets/
+dataset/
 *.csv
 *.zip
 *.tar
