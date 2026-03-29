@@ -148,22 +148,13 @@ Our project may include some or all of the following:
 MelanomaDetection/
 │
 ├── data/
-│   ├── raw/
-│   ├── processed/
+│   ├── test/
+│   ├── train/
+│   ├── val/
 │
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_model_training.ipynb
-│   ├── 04_evaluation.ipynb
-│   └── 05_vae_experiments.ipynb
-│
-├── src/
-│   ├── data_loader.py
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── models.py
+│   ├── train_melanoma_image_classifier.ipynb
+│   ├── train_melanoma_image_classifier_AE.ipynb
 │
 ├── outputs/
 │   ├── figures/
