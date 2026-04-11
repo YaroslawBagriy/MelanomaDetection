@@ -49,6 +49,8 @@ Thumbs.db
 
 # Data
 data/images/
+data/images_new/
+data/image/
 data/raw/
 data/processed/
 data/interim/
