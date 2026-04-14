@@ -14,7 +14,7 @@ This director contains a `.keras` file - update the file path below with where y
 import tensorflow as tf
 
 model = tf.keras.models.load_model(
-    "/content/drive/MyDrive/../melanoma_cnn_arch2_35epochs.keras"
+    "/content/drive/MyDrive/../melanoma_cnn_arch1_35epochs.keras"
 )
 ```
 
@@ -44,7 +44,7 @@ def preprocess_image(image_path):
     return img
 
 model = tf.keras.models.load_model(
-    "/content/drive/MyDrive/Grad_School/SEIS_766 Vision AI/final_project/models/melanoma_cnn_arch2_35epochs.keras"
+    "/content/drive/MyDrive/Grad_School/SEIS_766 Vision AI/final_project/models/melanoma_cnn_arch1_35epochs.keras"
 )
 
 image_path = "example.jpg"
@@ -81,7 +81,7 @@ from pathlib import Path
 model_dir = Path("/content/drive/MyDrive/...")
 model_dir.mkdir(parents=True, exist_ok=True)
 
-model_path = model_dir / "melanoma_cnn_arch2_35epochs.keras"
+model_path = model_dir / "melanoma_cnn_arch1_35epochs.keras"
 model.save(model_path)
 ```
 
