@@ -73,6 +73,8 @@ datasets/
 *.h5
 *.hdf5
 *.keras
+!notebooks/CNN/melanoma_cnn_arch2_35epochs.keras
+!notebooks/CNN/melanoma_cnn_arch1_35epochs.keras
 *.onnx
 models/
 checkpoints/
