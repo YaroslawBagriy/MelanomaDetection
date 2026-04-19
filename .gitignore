@@ -57,8 +57,8 @@ data/interim/
 datasets/
 
 # CSVs
-*.csv
-!data/ISIC_2020_Training_GroundTruth.csv
+#*.csv
+#!data/ISIC_2020_Training_GroundTruth.csv
 
 # Archives
 *.zip
@@ -95,3 +95,8 @@ temp/
 
 # Environment files
 .env
+
+# binary data
+*.jpg
+*.dcm
+*.tar
