@@ -103,3 +103,6 @@ temp/
 
 # binaries
 .venv
+
+# generated files
+notebooks/exports/
