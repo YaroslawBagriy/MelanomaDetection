@@ -11,19 +11,11 @@ notebook
 ipykernel
 tqdm
 gdown
-
 torch
 torchvision
 torchaudio
-
 albumentations
-
-# Optional for image generation / latent space experiments
 scikit-image
-
-# Optional for notebook visualizations
 plotly
-
-# Optional if your team experiments with TensorFlow/Keras instead of PyTorch
-# tensorflow
-# keras
+tensorflow
+keras
