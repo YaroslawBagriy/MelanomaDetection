@@ -100,3 +100,6 @@ temp/
 *.jpg
 *.dcm
 *.tar
+
+# binaries
+.venv
