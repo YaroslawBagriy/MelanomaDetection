@@ -8,7 +8,7 @@ Current notebook:
 
 ## Loading The Model
 
-This directory contains a `.keras` file - update the file path below with where you have it saved (most likley Google Drive).
+This directory contains a `.keras` file - update the file path below with where you have it saved (most likely Google Drive).
 
 ```python
 import tensorflow as tf
