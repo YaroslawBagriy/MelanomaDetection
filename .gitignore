@@ -77,6 +77,9 @@ datasets/
 !notebooks/CNN/melanoma_cnn_arch1_35epochs.keras
 !notebooks/CNN/melanoma_cnn_arch2_35epochs.keras
 !notebooks/CNN/melanoma_cnn_arch2_45epochs.keras
+!notebooks/CGAN/Exported_Models/cgan_combined.keras
+!notebooks/CGAN/Exported_Models/cgan_discriminator.keras
+!notebooks/CGAN/Exported_Models/cgan_generator.keras
 *.onnx
 models/
 checkpoints/
